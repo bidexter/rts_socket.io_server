@@ -1,0 +1,14 @@
+{
+    "name": "rts_socketio_server_for_mod_vpl_rts",
+    "version": "1.0.0",
+    "description": "RTS socket server for mod vpl",
+    "author":"Duishenaliev Erdar erdan.duos@gmail.com",
+    "main": "rts-socket-server.js",
+    "scripts": {
+        "start": "node rts-socket-server.js"
+    },
+    "dependencies": {
+        "node": "^16.20.0",
+        "socket.io": "^4.6.2"
+    }
+}
